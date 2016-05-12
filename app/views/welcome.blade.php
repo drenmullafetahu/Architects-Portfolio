@@ -1,0 +1,1 @@
+@extends('Public.partials.footer')
